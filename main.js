@@ -54,7 +54,7 @@ function outputData(person) {
   }
   // Add a class to Americans
   if ((new RegExp(/american/gi)).test(person.profession)) {
-    row.classList.add('americans');
+    row.classList.add('american');
   }
 
 }
