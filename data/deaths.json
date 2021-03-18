@@ -817,10 +817,10 @@
    },
    {
       "link" : "https://en.wikipedia.org/wiki/Otto_von_Habsburg",
-      "profession" : "1912",
+      "profession" : "Archduke Otto of Austria",
       "month" : "July",
       "name" : "Archduke Otto of Austria",
-      "birthyear" : null,
+      "birthyear" : "1912",
       "day" : "4"
    },
    {
@@ -1664,7 +1664,7 @@
       "birthyear" : "1941"
    },
    {
-      "birthyear" : "1941/1942|42",
+      "birthyear" : "1942",
       "name" : "Kim Jong-il",
       "profession" : "Supreme Leader of the Democratic People’s Republic of Korea",
       "month" : "December",
