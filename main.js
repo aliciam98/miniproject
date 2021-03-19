@@ -58,11 +58,11 @@ function outputData(person) {
   }
   //Add a class to Politicians
   if((new RegExp(/politician/gi)).test(person.profession)) {
-
+    row.classList.add('politician')
   }
   //Add a class to born20ies
   if((new RegExp(/192\d/gi)).test(person.birthyear)) {
-
+    row.classList.add('born20ies')
   }
 
 }
