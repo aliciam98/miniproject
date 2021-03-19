@@ -30,8 +30,8 @@ button {
 .redButton{
   background-color: red;
 }
-.whiteButton{
-  background-color: white;
+.darkButton{
+  background-color: blue;
 }
 
 table, th, td {

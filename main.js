@@ -61,8 +61,8 @@ function outputData(person) {
 
   }
   //Add a class to born20ies
-  if((new RegExp(/192./gi)).test(person.birthyear)) {
-    
+  if((new RegExp(/192\d/gi)).test(person.birthyear)) {
+
   }
 
 }
