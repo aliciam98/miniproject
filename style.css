@@ -2,11 +2,9 @@ body {
   padding: 0 30px 0 30px;
 }
 
-<style>
 body {
-  background-color: #AEAEAE;
+  background-color: grey;
 }
-</style>
 
 button {
   font-size: 16px;
